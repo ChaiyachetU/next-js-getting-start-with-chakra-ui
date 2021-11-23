@@ -45,7 +45,7 @@ export default function Header() {
                   textDecoration: "none",
                 }}
               >
-                <Image src="/logo.png" alt="logo" height="35px" />
+                <Image src="/logo.png" alt="logo" width="100%" height="35px" />
               </Link>
             </Box>
             <Flex alignItems="center">
